@@ -1,0 +1,15 @@
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\bin\Debug\net6.0\romanToNumber.exe
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\bin\Debug\net6.0\romanToNumber.deps.json
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\bin\Debug\net6.0\romanToNumber.runtimeconfig.json
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\bin\Debug\net6.0\romanToNumber.dll
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\bin\Debug\net6.0\romanToNumber.pdb
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\obj\Debug\net6.0\romanToNumber.csproj.AssemblyReference.cache
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\obj\Debug\net6.0\romanToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\obj\Debug\net6.0\romanToNumber.AssemblyInfoInputs.cache
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\obj\Debug\net6.0\romanToNumber.AssemblyInfo.cs
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\obj\Debug\net6.0\romanToNumber.csproj.CoreCompileInputs.cache
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\obj\Debug\net6.0\romanToNumber.dll
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\obj\Debug\net6.0\refint\romanToNumber.dll
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\obj\Debug\net6.0\romanToNumber.pdb
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\obj\Debug\net6.0\romanToNumber.genruntimeconfig.cache
+C:\Users\hasim\OneDrive\Masaüstü\romanToNumber\obj\Debug\net6.0\ref\romanToNumber.dll
