@@ -38,7 +38,7 @@ public class RomanRakam
         {
             if (roman.Length - i >= 2 && sayac == 0)
             {
-                string data = roman[i + 0].ToString() + roman[i + 1].ToString();
+                string data = roman[i].ToString() + roman[i + 1].ToString();
 
                 if (data != null)
                 {
